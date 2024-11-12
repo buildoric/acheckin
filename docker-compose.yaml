@@ -1,0 +1,5 @@
+services:
+  acheckin:
+    image: acheckin:latest
+    build:
+      context: .

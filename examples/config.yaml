@@ -1,0 +1,5 @@
+name: acheckin
+description: auto checkin every day.
+create:
+  username: __username__
+  password: __password__
