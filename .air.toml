@@ -1,0 +1,3 @@
+[build]
+    
+exclude_dir = ["sites", "docs", "tmp", "web"]
